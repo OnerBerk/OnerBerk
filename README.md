@@ -1,5 +1,5 @@
 ### Hi there  
-![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/500_F_238328390_VASmHPqaHAdF3DKIVwzxsZ4NsQSHI20d.jpeg)
+![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/koi.jpeg)
 
 <!--
 **OnerBerk/OnerBerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
