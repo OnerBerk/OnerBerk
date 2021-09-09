@@ -1,8 +1,8 @@
 ### Hi there  
+![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/500_F_238328390_VASmHPqaHAdF3DKIVwzxsZ4NsQSHI20d.jpeg)
 
 <!--
 **OnerBerk/OnerBerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
