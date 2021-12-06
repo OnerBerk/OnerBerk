@@ -1,4 +1,4 @@
-![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/red)  
+![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg)  
 ### Hey 🤗
 
 I'm Öner Berk!  
