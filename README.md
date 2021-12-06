@@ -1,7 +1,5 @@
 ![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg)  
-<div style="background-size: cover; height: 100px">
-<img src="https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg" alt="Cover" />
-</div>
+<div style="background-size: cover; height: 100px"><img src="https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg" alt="Cover" /></div>
 ### Hey 🤗
 
 I'm Öner Berk!  
