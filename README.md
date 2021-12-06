@@ -1,4 +1,5 @@
 ![Cover](https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg)  
+<img src="https://github.com/OnerBerk/OnerBerk/blob/main/img/red.jpeg" alt="Cover" style="height:200px;"/>
 ### Hey 🤗
 
 I'm Öner Berk!  
