@@ -4,7 +4,7 @@
 I'm Öner Berk!  
 
 * Fullstack developer
-* Currently Student at Wild code school and working in Software firm
+* I am currently working for a consulting and software development company
 
 ![](https://komarev.com/ghpvc/?username=OnerBerk&color=orange) 
 
