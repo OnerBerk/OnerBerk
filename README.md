@@ -43,3 +43,7 @@ Always learning, always building.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnerBerk&layout=compact&theme=tokyonight)
 <!-- ![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnerBerk&show_icons=true&theme=tokyonight) -->
+
+### 🐍 Snake Game Contribution Graph
+
+![snake gif](https://github.com/OnerBerk/OnerBerk/blob/output/github-contribution-grid-snake.svg)
